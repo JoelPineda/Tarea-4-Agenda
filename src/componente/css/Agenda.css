@@ -1,0 +1,46 @@
+.button{
+    font-size: 15px;
+    font-family: Arial,Helvetica;
+    color:white;
+    border: 0px;
+    background: darkblue;
+    width: 325px;
+    height: 30px;
+    display: block;
+    border-radius: 5px;
+    margin-top:10px;
+    margin: 35px;
+  }
+  form{
+    font-size: 15px;
+    width: 400px;
+    height: 500px;
+    background: white;
+    display:block;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+  }
+.button:hover{
+    background-color:#889DAF;
+  }
+  hr{
+    background: white;
+  }
+.MostrarD{
+  margin: 15px;
+  font-size: 15px;
+  width: 500px;
+}
+input{
+  height: 20px;
+  width: 300px;
+  padding: 10px;
+  margin-top: 10px;
+}
+.Most{
+  margin: 15px;
+}
+.str{
+  font-size: 25px;
+}
